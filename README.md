@@ -1,4 +1,4 @@
-# GCPGoat : A Damn Vulnerable GCP Infrastructure
+# GCPGoat : A Damn Vulnerable GCP Infrastructure.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42687376/204150661-3d576909-e271-4a3a-8996-37939f977315.jpg">
